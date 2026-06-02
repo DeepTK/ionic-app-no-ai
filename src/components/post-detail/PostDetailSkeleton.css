@@ -1,0 +1,35 @@
+.post-detail-hero-skeleton {
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.post-detail-skeleton-title {
+  display: block;
+  height: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.post-detail-skeleton-subtitle {
+  display: block;
+  width: 40%;
+  height: 1rem;
+}
+
+.post-detail-skeleton-line {
+  display: block;
+  height: 0.85rem;
+  margin-bottom: 0.5rem;
+}
+
+.post-detail-skeleton-line--short {
+  width: 70%;
+}
+
+.post-detail-comment-skeleton {
+  margin-bottom: 1rem;
+}
+
+.post-detail-comment-skeleton:last-child {
+  margin-bottom: 0;
+}

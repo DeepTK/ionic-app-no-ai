@@ -1,0 +1,39 @@
+.ion-col {
+  margin-bottom: 1rem;
+}
+
+.post-card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+
+.post-card ion-card-content {
+  flex-grow: 1;
+}
+
+.post-title {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.post-body {
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.post-author-chip {
+  max-width: 100%;
+}
+
+.post-author-chip ion-label {
+  overflow: visible;
+  text-overflow: unset;
+  white-space: nowrap;
+  max-width: none;
+}

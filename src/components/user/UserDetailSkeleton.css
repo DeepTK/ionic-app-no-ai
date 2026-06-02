@@ -1,0 +1,42 @@
+.user-sk-title {
+  display: block;
+  width: 65%;
+  height: 1.4rem;
+  margin-bottom: 0.5rem;
+}
+
+.user-sk-subtitle {
+  display: block;
+  width: 35%;
+  height: 1rem;
+}
+
+.user-sk-section-label {
+  display: block;
+  width: 30%;
+  height: 0.9rem;
+}
+
+.user-sk-icon {
+  width: 24px;
+  height: 24px;
+  border-radius: 4px;
+  margin-right: 12px;
+}
+
+.user-sk-row-line {
+  display: block;
+  flex: 1;
+  height: 0.9rem;
+}
+
+.user-sk-row-line--short {
+  width: 75%;
+  margin-top: 0.4rem;
+}
+
+.user-sk-address-lines,
+.user-sk-company-lines {
+  flex: 1;
+  width: 100%;
+}

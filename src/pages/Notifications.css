@@ -1,0 +1,13 @@
+.notifications-page {
+  padding-top: 0;
+}
+
+.notifications-hint {
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+}
+
+.notifications-message,
+.notifications-error {
+  margin-top: 1rem;
+}

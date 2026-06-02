@@ -1,0 +1,31 @@
+.post-card--skeleton {
+  pointer-events: none;
+}
+
+.post-skeleton-chip {
+  display: block;
+  width: 45%;
+  height: 2rem;
+  border-radius: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.post-skeleton-title {
+  display: block;
+  height: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.post-skeleton-title--short {
+  width: 65%;
+}
+
+.post-skeleton-line {
+  display: block;
+  height: 0.85rem;
+  margin-bottom: 0.45rem;
+}
+
+.post-skeleton-line--short {
+  width: 75%;
+}

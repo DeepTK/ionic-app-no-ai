@@ -1,0 +1,21 @@
+.camera-page {
+  padding-top: 0;
+}
+
+.camera-card ion-button {
+  margin-bottom: 0.75rem;
+}
+
+.camera-error {
+  margin-top: 0.75rem;
+}
+
+.camera-preview {
+  margin-top: 1rem;
+}
+
+.camera-preview ion-img {
+  border-radius: 8px;
+  max-height: 320px;
+  object-fit: cover;
+}

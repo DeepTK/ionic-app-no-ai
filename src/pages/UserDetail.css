@@ -1,0 +1,22 @@
+.user-detail {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding-bottom: 1rem;
+}
+
+.user-detail ion-card {
+  margin: 0;
+}
+
+.user-detail-address {
+  --padding-start: 0;
+}
+
+.user-detail-error {
+  margin-top: 1rem;
+}
+
+.user-detail-error ion-button {
+  margin-top: 1rem;
+}

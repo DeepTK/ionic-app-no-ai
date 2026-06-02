@@ -1,0 +1,17 @@
+.app-sidebar-list {
+  padding: 20px 0;
+  min-height: 100%;
+}
+
+.app-sidebar-note {
+  display: inline-block;
+  padding: 0 16px 12px;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+ion-item.selected {
+  --background: rgba(var(--ion-color-primary-rgb), 0.12);
+  font-weight: 600;
+}
